@@ -1,4 +1,9 @@
-
+from sklearn.utils import shuffle
+import numpy as np
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
+import matplotlib.pyplot as plt
 
 def svm_with_sgd(X, y, lam=0.0, epochs=1000, l_rate=0.01, sgd_type='practical'):
     np.random.seed(2)
