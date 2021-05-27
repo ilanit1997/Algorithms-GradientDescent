@@ -29,3 +29,12 @@ d. update w,b vectors according to subgradients found in b, and according to upd
 return mean(w), mean(b)
 
 After above runs, we plot train, test error of each method and compare the two.
+
+
+**Logistic Regression**
+
+1. Cross validation implemantion.
+
+2. Run 5-folds CV on Logistic Regression model with different lambdas. 
+
+3. plot bar plot for every lambda value and compare train, validation and test errors.
