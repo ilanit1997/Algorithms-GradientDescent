@@ -31,6 +31,8 @@ return mean(w), mean(b)
 After above runs, we plot train, test error of each method and compare the two.
 
 
+
+
 **Logistic Regression**
 
 1. Cross validation implemantion.
