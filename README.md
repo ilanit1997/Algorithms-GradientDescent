@@ -1,7 +1,10 @@
-# Algorithms-GradientDescent-SVM
+
+# Algorithms-GradientDescent
+
+**Soft SVM:**
+
 Stochastic Gradient Descent used to solve soft-SVM. 
 Implemenation of SGD is done in two ways: 
-
 
 **pratical**
 
